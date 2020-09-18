@@ -1,0 +1,48 @@
+////
+HOMA GAMES -- GAME JAM 
+TEMA : NERF EPIC BLAST
+21 Eylulde bitiyor
+////
+
+.%40 Retention istiyorlar CPI Bakmýyorlar
+.IOS veya Android göndercez Homa Lab üzerinden
+. Facebook / GameAnalytic / Singular SDK ---- Homa Belly SDK
+. Oyun icinde siddet içeren ogelerden uzak dur (Yazý vs.)
+
+-- Acilis Konusmasi : https://www.youtube.com/watch?v=u3_Wj4P2Teg
+-- GAME Design : https://www.youtube.com/watch?v=_DLhBFW15xM  (izlendi)
+
+//--------------------------------------
+Proje : 
+Etraftaki Cookileri(Beyazlarý) vurdukca Scale oluyoruz.Enemy AI rakiplerimizde ayný amac ile oynuyor.IO mekanigi mevcut sureli ve siralamali sistem.
+Beyazlara bizim attigimiz kursunlar denk geldikce destroy olacaklar ve Scaleimiz büyücek.
+
+//------------------------------------------------------------
+
+**** TO DO : 
+
+
+
+
+
+***** COMPLETED :
+. Ufak capli bir final editor test yapalim goze carpan bir sey yok ise COMPLETED yeah(particle'larý þöyle bir elden geçirdim, daha düzgün ateþ ediyorlar artýk)
+. Enemyler ile karsilatigimiz KILL mekanigi calissin kim buyukse onun mermisi carptigi anda digeri Eliminated olur (bu mekanik GetBiggerda yaziliydi)(completed sayýlýr, sadece textler çýkmýyor, ama ölen ölüyor, kalan saðlar bizimdir)
+Enemylerin ilk 30 saniye yurumeme olayini cozssek kaymak olur (15 saniyeye düþürdüm, daha reasonable oldu - completed)
+. AI larýn modelleri degisti anca mekanigi komple calismiyor sayilir onun yapimi(completed)
+. AI larýn her vurdugu sadece bir tanesinin Scaleini buyutuyor(completed)
+Haritanin icine gomuluyor(completed)
+Animatorlarinin kontrol edilmesi lazim (completed)
+AI ates edip oldurunce yine ben buyuyorum kisace komple elden gecmesi lazim(completed)
+.Top buyume olayý guzel ama AIM kayýyor cok buyudugumuzde buyudukce AIM asagý doru inerse olur(completed)
+.Enemy modelleri yenileriyle degisecek(homa folder demo scene) (completed)
+.Smoke particle(prefabda var) olen cookienin ustunde patlicak (completed)
+.+1 Plus Texti(prefabda var) patlicak bizi ustumuzde yani isabet ettirdigimizin anlasilmasina katki saglicak(completed)
+. Merminin menzili cok az daha uzun ve scalei biraz dah buyuk belli olsun(completed)
+.Start menude mermi oto atesliyor o iptal (completed)
+.Beyaz adamlar dokundugumuzda yok olma puf kaldiralim sadece mermi ile yok etme olacak  (completed)
+- Mermiler yavaslasin// mermiler oturaklý olsun // Aim ayar verilecek      (completed)
+- Mermiler cookie veya enemylere degdikce GetBigger(Scale olucaz)      (completed)
+-IO mekanigi tamamlandi       (completed)
+-AI sistemi hazir       (completed)
+-Genel Design hazir      (completed)
